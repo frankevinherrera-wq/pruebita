@@ -1,4 +1,5 @@
 
 print("parte 1")
-print("parte 2")
-print("parte 3")
+print("parte 4")
+print("parte 5")
+print("parte 6")
